@@ -1,0 +1,111 @@
+[
+    {
+        "question": "Khi Bác tài mặc đồng phục đúng quy định của Zgo sẽ giúp khách cảm nhận được sự chuyên nghiệp và uy tín từ dịch vụ?\nHình ảnh Bác tài chỉnh chu sẽ tăng thiện cảm của Khách trong chuyến xe và góp phần tăng khả năng nhận được đánh giá 5 sao sau chuyến xe\nTheo Bác tài hình ảnh nào SAI quy định về đồng phục dành cho Bác tài ZgoBike?",
+        "question_number": 1,
+        "total_questions": 10,
+        "option_1": "HÌNH 1: không có nón Zgo & áo khoác Zgo",
+        "option_2": "HÌNH 2: Nón Zgo & áo khoác Zgo",
+        "option_3": "HÌNH 1 : Không có áo khoác Zgo & HÌNH 3: Không nón Zgo",
+        "correct_answer_index": 1,
+        "progress": "10%"
+    },
+    {
+        "question": "Hành động nào sau đây là ĐÚNG?",
+        "question_number": 2,
+        "total_questions": 10,
+        "option_1": "Thu thêm số tiền mặt khi khách đã thanh toán qua thẻ/ví trên ứng dụng",
+        "option_2": "Xác nhận với khách số tiền hiển thị trên ứng dụng Zgo của khách và thu theo đúng thông tin hiển thị trên ứng dụng",
+        "option_3": "Thu phụ phí khi khách hàng đề nghị chờ thêm 1 đoạn (<200m) vào hẻm",
+        "option_4": "Thu phụ phí khi chuyển không đi qua các trạm thu phí",
+        "correct_answer_index": 2,
+        "progress": "20%"
+    },
+    {
+        "question": "Bác tài đến đón khách, nhưng khách lại có thái độ thô lỗ và hành vi phá hoại xe của bác tài. Bác tài nên giải quyết như thế nào?",
+        "question_number": 3,
+        "total_questions": 10,
+        "option_1": "Để cho khách tiếp tục hành vi phá hoại và quay video làm bằng chứng",
+        "option_2": "Tranh cãi tay đôi và đánh nhau vì khách làm hư hại xe",
+        "option_3": "Bỏ chạy và mặc kệ tài sản",
+        "option_4": "Bình tính trao đổi nhẹ nhàng lịch sự với khách. Không nên tranh cãi và đôi co với khách. Nếu khách vẫn tiếp tục hành vi thô lỗ, di chuyển xe đến vị trí an toàn hơn. Sau đó gửi ảnh chụp và thông tin phản ánh đến Zgo và công an khu vực",
+        "correct_answer_index": 4,
+        "progress": "30%"
+    },
+    {
+        "question": "Hành động nào sau đây của bác tài là SAI?",
+        "question_number": 4,
+        "total_questions": 10,
+        "option_1": "Chủ động liên hệ với khách hàng, xác nhận điểm đón & đến, xác nhận thời gian đón khách",
+        "option_2": "Cập nhật tình trạng di chuyển khi đến trễ: kẹt xe/lạc đường",
+        "option_3": "Luôn nói 'ZGO XIN CHÀO' và 'ZGO CẢM ƠN'",
+        "option_4": "Đi thẳng đến điểm đón khách mà không cần liên hệ với khách",
+        "correct_answer_index": 4,
+        "progress": "40%"
+    },
+    {
+        "question": "Hành động nào của bác tài sau đây CHƯA đúng chuẩn 5 sao?",
+        "question_number": 5,
+        "total_questions": 10,
+        "option_1": "Giúp khách mở gác chân máy",
+        "option_2": "Liên hệ để thông báo với khách đã đến điểm đón",
+        "option_3": "Mặc kệ khách mang/vác nhiều đồ từ nhà ra vị trí bác tài đang đứng",
+        
+        "correct_answer_index": 3,
+        "progress": "50%"
+    },
+    {
+        "question": "Bác tài NÊN xử lý như thế nào khi khách yêu cầu bác tài chạy xe nhanh, lên lề đường & vượt đèn đỏ để tiết kiệm thời gian?",
+        "question_number": 6,
+        "total_questions": 10,
+        "option_1": "To tiếng với khách, đề nghị khách ngồi yên để tiếp tục hành trình. Nếu khách không đồng ý, nhờ hành khách đặt xe khác vì không thể làm theo yêu cầu của khách",
+        "option_2": "Làm theo ý của khách hàng nếu phí trước không có công an",
+        "option_3": "Khéo léo giải thích với khách:\nHành động lái xe như khách yêu cầu không an toàn\nKhi bác tài làm theo sẽ có nhiều hậu quả nghiêm trọng: vi phạm Luật Giao Thông & sẽ bị Zgo xử phạt\nMong khách hiểu và thông cảm để bác tài chạy xe theo tóc độ đúng quy định",
+        
+        "correct_answer_index": 3,
+        "progress": "60%"
+    },
+    {
+        "question": "Hành vi nào của bác tài sau đây là sai?",
+        "question_number": 7,
+        "total_questions": 10,
+        "option_1": "Đưa khách túi đựng cơm treo hộ trước xe",
+        "option_2": "Luôn nói lời cảm ơn khách khi đến nơi",
+        "option_3": "Yêu cầu khách cho thêm tiền bồi dưỡng vì giá cước đi quá ít",
+        
+        "correct_answer_index": 3,
+        "progress": "70%"
+    },
+    {
+        "question": "Bác tài không có phân hạng được sử dụng tính năng điểm đến yêu thích bao nhiêu lần?",
+        "question_number": 8,
+        "total_questions": 10,
+        "option_1": "1 lần/ngày",
+        "option_2": "2 lần/ngày",
+        "option_3": "2 lần/tuần",
+        
+        "correct_answer_index": 1,
+        "progress": "80%"
+    },
+    {
+        "question": "Bác tài chỉ được chạm trượt 'Kết thúc chuyến đi' khi nào?",
+        "question_number": 9,
+        "total_questions": 10,
+        "option_1": "Khi còn 1km sẽ đến điểm trả khách",
+        "option_2": "Ngay khi vừa đón khách",
+        "option_3": "Sau khi đưa khách đến đúng điểm trả khách hiển thị trên ứng dụng",
+        
+        "correct_answer_index": 3,
+        "progress": "90%"
+    },
+    {
+        "question": "Khi có phần 'Phụ phí' (cầu, đường, sân bay...) thì ai sẽ là người chia khoản tiền này?",
+        "question_number": 10,
+        "total_questions": 10,
+        "option_1": "Khách hàng",
+        "option_2": "Bác tài",
+        "option_3": "Cả hai cùng chia đôi",
+        
+        "correct_answer_index": 1,
+        "progress": "100%"
+    }
+]
