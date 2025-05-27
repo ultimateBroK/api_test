@@ -1,7 +1,6 @@
 # Ignore everything
 *
 # But not these files...
-.gitignore
 !README.md
 !questions.json
 # ...and not this directory and its contents
